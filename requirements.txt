@@ -1,0 +1,28 @@
+# ===== Core =====
+numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+pyyaml>=6.0
+tqdm>=4.64
+
+# ===== Computer Vision =====
+opencv-python>=4.7
+matplotlib>=3.7
+
+# ===== Deep Learning =====
+torch>=1.13
+torchvision>=0.14
+
+# ===== YOLOv8 =====
+ultralytics>=8.0.0
+
+# ===== Hyperparameter Tuning =====
+optuna>=3.0
+
+# ===== OpenPCDet Dependencies =====
+numba>=0.56
+tensorboard>=2.10
+easydict>=1.10
+
+# ===== Utilities =====
+scikit-learn>=1.2

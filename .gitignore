@@ -1,0 +1,23 @@
+# Data
+data/
+fused_points/
+BEV_Features_Final_FUSED/
+
+# Outputs
+tuning_out/
+batch_eval_out_all_ego/
+*.csv
+*.npy
+*.db
+
+# Checkpoints
+*.pth
+
+# Cache
+cache_yolo_optuna_raw/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
